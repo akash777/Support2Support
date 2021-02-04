@@ -1,6 +1,6 @@
 # Support2Support
 
-# Live URL:  https://sforce.co/2Kj25G0
+# Live URL:  http://bit.ly/support2support
 
 This website is to manage the support project.
 1)	SLA Report – to send this report every hour
